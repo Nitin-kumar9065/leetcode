@@ -17,9 +17,7 @@ public:
             j--;
         }
         pos--;
-
     }
-
-    return result;
+     return result;
     }
 };
